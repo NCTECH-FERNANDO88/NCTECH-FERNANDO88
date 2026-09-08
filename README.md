@@ -26,6 +26,27 @@ Tecnologias presentes nos projetos que desenvolvo e acompanho:
   <img src="https://skillicons.dev/icons?i=swift,java,kotlin,ts,js,dart,flutter,nextjs,nestjs,firebase,git,github" alt="Tecnologias e ferramentas" />
 </p>
 
+## Idiomas
+
+- **Inglês** — fluente
+- **Espanhol** — fluente
+
+## Cursos e certificações
+
+Cursos e certificações concluídos:
+
+- **AWS Accredited Operations Specialist (AOS)** — agosto de 2026
+- **Aprendendo a Sintaxe Java** — 24/08/2026
+- **Introdução a Redes** — 20/08/2026
+- **Comandos Essenciais de CMD na Prática** — 19/08/2026
+- **Service Desk: do Suporte Reativo ao Atendimento Estratégico** — 19/08/2026
+- **Ambiente de Desenvolvimento Java** — 18/08/2026
+- **Introdução à Plataforma Java** — 18/08/2026
+- **Live de Abertura Aceleração Randstad Service Desk** — 17/08/2026
+- **Boas-vindas à Aceleração Randstad Service Desk** — 15/08/2026
+- **Fundamentos da IA Moderna: Machine Learning, LLMs, IA Generativa e Agentes** — 15/08/2026
+- **Boas-vindas ao Bootcamp Bradesco: GenAI, Dados e Cyber** — 28/05/2026
+
 ## Projetos em destaque
 
 ### [TaskFlow](https://github.com/NCTECH-FERNANDO88/TaskFlow)
