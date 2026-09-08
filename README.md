@@ -23,10 +23,11 @@ Atuo na criação e organização de produtos digitais, conectando objetivos de 
 Tecnologias presentes nos projetos que desenvolvo e acompanho:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,swift,kotlin,ts,js,dart,flutter,nextjs,nestjs,firebase,git,github,vscode,androidstudio" alt="Tecnologias e ferramentas" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,swift,kotlin,ts,js,dart,html,css,bash,flutter,nextjs,nestjs,firebase,git,github,vscode,androidstudio" alt="Tecnologias e ferramentas" />
 </p>
 
-- **Linguagens:** C, C++, Java, Python, Swift, Kotlin, TypeScript, JavaScript e Dart
+- **Linguagens:** C, C++, Java, Python, Swift, Kotlin, TypeScript, JavaScript, Dart, SQL e Bash/Shell
+- **Web e configuração:** HTML5, CSS3, JSON e YAML
 - **Frameworks e plataformas:** Flutter, Next.js, NestJS e Firebase
 - **IDEs e ferramentas:** Xcode, Android Studio, Visual Studio Code, Git e GitHub
 - **Sistemas e ambientes:** macOS e Android
