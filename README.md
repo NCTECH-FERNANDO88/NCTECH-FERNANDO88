@@ -1,16 +1,58 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**NCTECH-FERNANDO88/NCTECH-FERNANDO88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Fernando Costa
 
-Here are some ideas to get you started:
+### Produto • Gestão • Tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Organização e desenvolvimento de produtos digitais com foco em transformar ideias em soluções práticas.
+
+</div>
+
+---
+
+## Sobre mim
+
+Atuo na criação e organização de produtos digitais, conectando objetivos de negócio, experiência do usuário e tecnologia. Minha participação inclui definição de escopo, estruturação de equipes, documentação, organização de acessos e acompanhamento de entregas.
+
+- 🇧🇷 Baseado no Brasil
+- 🧭 Interesse em produtos digitais, aplicativos e sistemas de gestão
+- 🤝 Aberto a projetos colaborativos e novas oportunidades
+
+## Tecnologias e ferramentas
+
+Tecnologias presentes nos projetos que desenvolvo e acompanho:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=swift,java,kotlin,ts,js,dart,flutter,nextjs,nestjs,firebase,git,github" alt="Tecnologias e ferramentas" />
+</p>
+
+## Projetos em destaque
+
+### [TaskFlow](https://github.com/NCTECH-FERNANDO88/TaskFlow)
+Aplicativo desenvolvido em Swift para organização de tarefas e fluxo de trabalho.
+
+### [MeudiaMED](https://github.com/NCTECH-FERNANDO88/MeudiaMED)
+Aplicativo em Kotlin voltado à organização da rotina de estudos de médicos, residentes e estudantes.
+
+### [NC Gestão](https://github.com/NCTECH-FERNANDO88/nc-gestao-servicos)
+Ecossistema multisserviço para organizar atendimentos, operações e a gestão de empresas em diferentes segmentos.
+
+### [Estudos em Java](https://github.com/NCTECH-FERNANDO88/dio-trilha-java-basico-fernando)
+Exercícios e projetos desenvolvidos durante a formação em Java.
+
+## Como trabalho
+
+- Planejamento do produto e definição de escopo
+- Organização de equipes, ferramentas e níveis de acesso
+- Documentação e acompanhamento das entregas
+- Integração entre objetivos de negócio e decisões técnicas
+
+---
+
+<div align="center">
+
+### Vamos construir algo relevante
+
+[![GitHub](https://img.shields.io/badge/GitHub-NCTECH--FERNANDO88-181717?style=for-the-badge&logo=github)](https://github.com/NCTECH-FERNANDO88)
+
+</div>
