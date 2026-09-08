@@ -35,7 +35,8 @@ Tecnologias presentes nos projetos que desenvolvo e acompanho:
 
 Cursos e certificações concluídos:
 
-- **AWS Accredited Operations Specialist (AOS)** — agosto de 2026
+- **Certificação AWS** — agosto de 2026
+- **AOS Accredited Operations Specialist — Nível Tier III para Data Center** — julho de 2023 a janeiro de 2024
 - **Aprendendo a Sintaxe Java** — 24/08/2026
 - **Introdução a Redes** — 20/08/2026
 - **Comandos Essenciais de CMD na Prática** — 19/08/2026
