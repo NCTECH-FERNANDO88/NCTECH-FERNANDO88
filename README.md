@@ -23,8 +23,13 @@ Atuo na criação e organização de produtos digitais, conectando objetivos de 
 Tecnologias presentes nos projetos que desenvolvo e acompanho:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=swift,java,kotlin,ts,js,dart,flutter,nextjs,nestjs,firebase,git,github" alt="Tecnologias e ferramentas" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,swift,kotlin,ts,js,dart,flutter,nextjs,nestjs,firebase,git,github,vscode,androidstudio" alt="Tecnologias e ferramentas" />
 </p>
+
+- **Linguagens:** C, C++, Java, Python, Swift, Kotlin, TypeScript, JavaScript e Dart
+- **Frameworks e plataformas:** Flutter, Next.js, NestJS e Firebase
+- **IDEs e ferramentas:** Xcode, Android Studio, Visual Studio Code, Git e GitHub
+- **Sistemas e ambientes:** macOS e Android
 
 ## Idiomas
 
@@ -35,6 +40,8 @@ Tecnologias presentes nos projetos que desenvolvo e acompanho:
 
 Cursos e certificações concluídos:
 
+- **Gestão de Pessoas**
+- **Gerenciamento de Crises**
 - **Certificação AWS** — agosto de 2026
 - **AOS Accredited Operations Specialist — Nível Tier III para Data Center** — julho de 2023 a janeiro de 2024
 - **Aprendendo a Sintaxe Java** — 24/08/2026
